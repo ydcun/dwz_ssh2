@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dwz_ssh2"
+  id="myeclipse.1364785403742"
+  context-root="/dwz_ssh2"
+  j2ee-spec="5.0"
+  archive="demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="/application" />
+  </attributes>
+</project-module>
+
