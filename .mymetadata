@@ -5,7 +5,7 @@
   id="myeclipse.1364785403742"
   context-root="/dwz_ssh2"
   j2ee-spec="5.0"
-  archive="demo.war">
+  archive="dwz_ssh2.war">
   <attributes>
     <attribute name="webrootdir" value="/application" />
   </attributes>
